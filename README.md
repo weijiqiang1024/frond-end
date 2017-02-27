@@ -12,7 +12,7 @@ web console for the project
 4. Run command `npm install`. 
 5. Run command `bower install`.
 
-For dev,Run command `gulp serve',After that,the server will be start in 3000 port,Then you can visit http://localhost:7203 to see the pages.
+For dev,Run command `gulp serve`,After that,the server will be start in 3000 port,Then you can visit http://localhost:7203 to see the pages.
 
 
 
