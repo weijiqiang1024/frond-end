@@ -51,5 +51,18 @@
   },
   "engines": {
     "node": ">=0.10.0"
-  }
+  },
+  "description": "gulp+angualr yeoman build project",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiqiang1024/frond-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiqiang1024/frond-end/issues"
+  },
+  "homepage": "https://github.com/weijiqiang1024/frond-end#readme"
 }
